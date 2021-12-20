@@ -4,3 +4,6 @@ pandas
 matplotlib
 scipy
 sklearn
+lightgbm
+fuzzywuzzy
+python-Levenshtein
