@@ -7,3 +7,4 @@ sklearn
 lightgbm
 fuzzywuzzy
 python-Levenshtein
+kaggle
