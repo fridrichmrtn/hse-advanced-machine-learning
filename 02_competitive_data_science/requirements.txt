@@ -5,6 +5,7 @@ matplotlib
 scipy
 sklearn
 lightgbm
+catboost
 fuzzywuzzy
 python-Levenshtein
 kaggle
