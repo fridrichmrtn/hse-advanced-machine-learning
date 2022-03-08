@@ -4,6 +4,7 @@ pandas
 matplotlib
 scipy
 sklearn
+category_encoders
 lightgbm
 catboost
 fuzzywuzzy
