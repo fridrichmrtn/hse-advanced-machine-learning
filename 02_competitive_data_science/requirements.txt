@@ -10,3 +10,4 @@ catboost
 fuzzywuzzy
 python-Levenshtein
 kaggle
+xgboost
