@@ -2,6 +2,7 @@ jupyter
 numpy
 pandas
 matplotlib
+seaborn
 scipy
 sklearn
 category_encoders
