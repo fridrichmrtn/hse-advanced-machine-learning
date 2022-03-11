@@ -1,3 +1,4 @@
 py-env/
 data/
 *dev.ipynb
+*catboost_info
