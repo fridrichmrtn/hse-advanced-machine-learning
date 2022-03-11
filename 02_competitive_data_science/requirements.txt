@@ -6,7 +6,7 @@ seaborn
 scipy
 sklearn
 category_encoders
-lightgbm
+lightgbm --install-option=--gpu
 catboost
 fuzzywuzzy
 python-Levenshtein
